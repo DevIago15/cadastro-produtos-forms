@@ -1,0 +1,12 @@
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto_Oak.Properties.Resources.resources
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto_Oak.View.CriarProduto.resources
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto_Oak.View.ListagemProdutos.resources
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto_Oak.Menu.resources
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto-Oak.csproj.GenerateResource.cache
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto-Oak.csproj.CoreCompileInputs.cache
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\bin\Debug\Projeto-Oak.exe.config
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\bin\Debug\Projeto-Oak.exe
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\bin\Debug\Projeto-Oak.pdb
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto-Oak.exe
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto-Oak.pdb
+C:\Users\Lagoa\source\repos\Projeto-Oak\Projeto-Oak\obj\Debug\Projeto-Oak.csproj.AssemblyReference.cache
